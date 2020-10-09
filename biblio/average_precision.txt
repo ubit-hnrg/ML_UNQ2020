@@ -1,0 +1,9 @@
+## Claramente explicado: average_precision vs interpolated_average_precision
+#La de scikitlearn es average_precision. 
+
+https://sanchom.wordpress.com/tag/average-precision/
+
+
+
+### Y para obtener los intervalos de confianza del aucPR (según el paper de kendrick2013) pueden usar esto (R):
+https://www.rdocumentation.org/packages/MRIaggr/versions/1.1.5/topics/calcAUPRC
