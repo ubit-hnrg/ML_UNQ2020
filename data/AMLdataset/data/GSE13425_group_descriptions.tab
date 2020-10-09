@@ -1,0 +1,12 @@
+	group.labels	group.colors
+T-ALL	T	darkgreen
+TEL-AML1	Bt	red
+TEL-AML1 + hyperdiploidy	Bth	blue
+hyperdiploid	Bh	brown
+E2A-rearranged (E)	BE	green
+E2A-rearranged (EP)	BEp	orange
+E2A-rearranged (E-sub)	BEs	darkgray
+BCR-ABL	Bc	cyan
+BCR-ABL + hyperdiploidy	Bch	black
+MLL	BM	violet
+pre-B ALL	Bo	darkblue
